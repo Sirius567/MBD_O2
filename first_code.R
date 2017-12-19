@@ -27,5 +27,5 @@ n
 
 dim(m)
 
-colnames(m)<-paste0(rep('col',4),seq(1,4))
-rownames(m)<-paste0(rep('row',3),seq(1,3))
+colnames(m)<-paste0(rep('COL',4),seq(1,4))
+rownames(m)<-paste0(rep('ROW',3),seq(1,3))
